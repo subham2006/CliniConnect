@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/CliniConnect/static/js/main.7e6a75ba.chunk.js",
-    "main.js.map": "/CliniConnect/static/js/main.7e6a75ba.chunk.js.map",
+    "main.js": "/CliniConnect/static/js/main.5d7f46d1.chunk.js",
+    "main.js.map": "/CliniConnect/static/js/main.5d7f46d1.chunk.js.map",
     "runtime-main.js": "/CliniConnect/static/js/runtime-main.6182e94c.js",
     "runtime-main.js.map": "/CliniConnect/static/js/runtime-main.6182e94c.js.map",
     "static/css/2.4be38407.chunk.css": "/CliniConnect/static/css/2.4be38407.chunk.css",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.6182e94c.js",
     "static/css/2.4be38407.chunk.css",
     "static/js/2.78bc9911.chunk.js",
-    "static/js/main.7e6a75ba.chunk.js"
+    "static/js/main.5d7f46d1.chunk.js"
   ]
 }
