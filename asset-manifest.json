@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/CliniConnect/static/js/main.7f2acd56.chunk.js",
-    "main.js.map": "/CliniConnect/static/js/main.7f2acd56.chunk.js.map",
+    "main.js": "/CliniConnect/static/js/main.3302f5f1.chunk.js",
+    "main.js.map": "/CliniConnect/static/js/main.3302f5f1.chunk.js.map",
     "runtime-main.js": "/CliniConnect/static/js/runtime-main.6182e94c.js",
     "runtime-main.js.map": "/CliniConnect/static/js/runtime-main.6182e94c.js.map",
     "static/css/2.4be38407.chunk.css": "/CliniConnect/static/css/2.4be38407.chunk.css",
-    "static/js/2.78bc9911.chunk.js": "/CliniConnect/static/js/2.78bc9911.chunk.js",
-    "static/js/2.78bc9911.chunk.js.map": "/CliniConnect/static/js/2.78bc9911.chunk.js.map",
+    "static/js/2.96a591ac.chunk.js": "/CliniConnect/static/js/2.96a591ac.chunk.js",
+    "static/js/2.96a591ac.chunk.js.map": "/CliniConnect/static/js/2.96a591ac.chunk.js.map",
     "index.html": "/CliniConnect/index.html",
     "static/css/2.4be38407.chunk.css.map": "/CliniConnect/static/css/2.4be38407.chunk.css.map",
-    "static/js/2.78bc9911.chunk.js.LICENSE.txt": "/CliniConnect/static/js/2.78bc9911.chunk.js.LICENSE.txt",
+    "static/js/2.96a591ac.chunk.js.LICENSE.txt": "/CliniConnect/static/js/2.96a591ac.chunk.js.LICENSE.txt",
     "static/media/logo.23202fe2.png": "/CliniConnect/static/media/logo.23202fe2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6182e94c.js",
     "static/css/2.4be38407.chunk.css",
-    "static/js/2.78bc9911.chunk.js",
-    "static/js/main.7f2acd56.chunk.js"
+    "static/js/2.96a591ac.chunk.js",
+    "static/js/main.3302f5f1.chunk.js"
   ]
 }
