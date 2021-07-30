@@ -14,9 +14,9 @@ function App() {
           <Router>
             <AuthProvider>
               <Switch>
-              <Route exact path = '/CliniConnect/' component = {Login} />
-              <Route path = '/dashboard' component = {Dashboard} />
-              <Route path = '/patient' component = {Patient} />
+              <Route path = '/CliniConnect/' component = {Login} />
+              <Route path = '/CliniConnect/dashboard' component = {Dashboard} />
+              <Route path = '/ClinicConnect/patient' component = {Patient} />
               </Switch>
             </AuthProvider>
           </Router>
