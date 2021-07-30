@@ -19,7 +19,7 @@ export default function Patient(props) {
                 <Form>
                 <Form.Group controlId="exampleForm.ControlInput1">
                     <Form.Label>Doctor Name</Form.Label>
-                    <Form.Control placeholder="Name" />
+                    <Form.Control plaintext readOnly defaultValue="Cintrifuse Test" />
                 </Form.Group>
                 <Form.Group controlId="exampleForm.ControlSelect1">
                     <Form.Label>Would you like to refer this Patient?</Form.Label>
