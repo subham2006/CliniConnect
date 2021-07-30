@@ -1,5 +1,5 @@
 import React, { useRef, useState } from "react"
-import { Form, Button, Card, Alert } from "react-bootstrap"
+import { Form, Button, Card, Alert, ButtonGroup } from "react-bootstrap"
 import { useAuth } from "../AuthContext"
 import { Link, useHistory } from "react-router-dom"
 import logo from './logo.png'
@@ -25,6 +25,10 @@ export default function Login() {
     }
 
     setLoading(false)
+  }
+
+  async function toSignup(){
+    history.push('/CliniConnect/signup')
   }
 
   return (
