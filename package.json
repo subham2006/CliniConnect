@@ -1,12 +1,12 @@
 {
-  "homepage": "http://subham200",
+  "homepage": "http://subham2006.github.io/cliniconnect/",
   "name": "cliniconnect",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
-    "@testing-library/user-event": "^12.8.3",
+    "@testing-library/user-evnpent": "^12.8.3",
     "bootstrap": "^5.0.2",
     "firebase": "^8.8.0",
     "react": "^17.0.2",
@@ -18,7 +18,7 @@
     "yarn": "^1.22.11"
   },
   "scripts": {
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
